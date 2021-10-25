@@ -1,0 +1,21 @@
+/* style.css */
+.btn {
+    width: 170px;
+    height: 50px;
+    border-radius: 10px;
+    outline: none;
+    transition: 0.5s all;
+    margin: 5px;
+}
+
+.btn-red {
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+}
+
+.btn-red:hover {
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+}
